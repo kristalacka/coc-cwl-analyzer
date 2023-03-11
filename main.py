@@ -3,8 +3,8 @@ import logging
 import os
 from datetime import datetime
 
-from cwl_analyzer import CwlAnalyzer
-from results_generator import PromotionStatus, ResultsGenerator
+from utils.cwl_analyzer import CwlAnalyzer
+from utils.results_generator import PromotionStatus, ResultsGenerator
 
 logger = logging.getLogger("analyzer")
 
@@ -21,10 +21,10 @@ def __main__():
 
     clan_map = {
         "fever": "#2QYR2QJUP",
-        "scrubs": "#2QR0CGUUL",
-        "tbc": "#2PRG8V0G2",
-        "bc": "#PJ2UVURC",
-        "bob": "#P8P0JCRC",
+        # "scrubs": "#2QR0CGUUL",
+        # "tbc": "#2PRG8V0G2",
+        # "bc": "#PJ2UVURC",
+        # "bob": "#P8P0JCRC",
         # "ftc": "#2G0RR8VPU",
     }
     name_map = {
