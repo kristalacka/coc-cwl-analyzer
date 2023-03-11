@@ -1,0 +1,1435 @@
+{
+    "items": [
+        {
+            "result": "tie",
+            "endTime": "20230210T062803.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 1,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/uQitMrKyH859lUrBBtMmuZx7ygC1v2R1rYClhCcnnCA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/uQitMrKyH859lUrBBtMmuZx7ygC1v2R1rYClhCcnnCA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/uQitMrKyH859lUrBBtMmuZx7ygC1v2R1rYClhCcnnCA.png"
+                },
+                "clanLevel": 9,
+                "attacks": 202,
+                "stars": 355,
+                "destructionPercentage": 425.4,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 441,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20230131T224914.000Z",
+            "teamSize": 25,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png"
+                },
+                "clanLevel": 8,
+                "attacks": 45,
+                "stars": 75,
+                "destructionPercentage": 100.0,
+                "expEarned": 293
+            },
+            "opponent": {
+                "tag": "#CUYQ8YUJ",
+                "name": "اسود المعارك",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ZdDGN3Q_OCDtpz3DntwuYqSQo1atm7Uqu66rGCVIFVE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ZdDGN3Q_OCDtpz3DntwuYqSQo1atm7Uqu66rGCVIFVE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ZdDGN3Q_OCDtpz3DntwuYqSQo1atm7Uqu66rGCVIFVE.png"
+                },
+                "clanLevel": 13,
+                "stars": 59,
+                "destructionPercentage": 91.36
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20230129T202624.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png"
+                },
+                "clanLevel": 8,
+                "attacks": 52,
+                "stars": 76,
+                "destructionPercentage": 91.8,
+                "expEarned": 342
+            },
+            "opponent": {
+                "tag": "#2LGLG8CJJ",
+                "name": "ALLKING",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/HJ7RkGIXIA66rur7UnwtDVDOJ0SWLow_iBl3B02piPQ.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/HJ7RkGIXIA66rur7UnwtDVDOJ0SWLow_iBl3B02piPQ.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/HJ7RkGIXIA66rur7UnwtDVDOJ0SWLow_iBl3B02piPQ.png"
+                },
+                "clanLevel": 12,
+                "stars": 70,
+                "destructionPercentage": 83.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20230127T195912.000Z",
+            "teamSize": 20,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png"
+                },
+                "clanLevel": 8,
+                "attacks": 39,
+                "stars": 58,
+                "destructionPercentage": 95.85,
+                "expEarned": 244
+            },
+            "opponent": {
+                "tag": "#2PPGGYUV9",
+                "name": "The Zootopia",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/j5awVFB1Oxzlt98Xj-9CDnQ1XUlh2sIJf7MUQKzov04.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/j5awVFB1Oxzlt98Xj-9CDnQ1XUlh2sIJf7MUQKzov04.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/j5awVFB1Oxzlt98Xj-9CDnQ1XUlh2sIJf7MUQKzov04.png"
+                },
+                "clanLevel": 13,
+                "stars": 47,
+                "destructionPercentage": 84.3
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20230125T154126.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png"
+                },
+                "clanLevel": 8,
+                "attacks": 53,
+                "stars": 82,
+                "destructionPercentage": 94.0,
+                "expEarned": 331
+            },
+            "opponent": {
+                "tag": "#L2V8LCCR",
+                "name": "Etawa_Otewe",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/fGKQ6xGxA2WNvAs4nyeDHKdfaPlkEpuN2lvUM4Tk1fI.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/fGKQ6xGxA2WNvAs4nyeDHKdfaPlkEpuN2lvUM4Tk1fI.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/fGKQ6xGxA2WNvAs4nyeDHKdfaPlkEpuN2lvUM4Tk1fI.png"
+                },
+                "clanLevel": 12,
+                "stars": 81,
+                "destructionPercentage": 92.833336
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20230123T161039.000Z",
+            "teamSize": 25,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png"
+                },
+                "clanLevel": 8,
+                "attacks": 39,
+                "stars": 71,
+                "destructionPercentage": 98.88,
+                "expEarned": 286
+            },
+            "opponent": {
+                "tag": "#QR0QRRCL",
+                "name": "classic rockerz",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/75v1HLGKU1Bx2TKBurUBaOTr3ZRomP49Pzf0ZQ6w3do.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/75v1HLGKU1Bx2TKBurUBaOTr3ZRomP49Pzf0ZQ6w3do.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/75v1HLGKU1Bx2TKBurUBaOTr3ZRomP49Pzf0ZQ6w3do.png"
+                },
+                "clanLevel": 17,
+                "stars": 50,
+                "destructionPercentage": 73.92
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20230121T151510.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png"
+                },
+                "clanLevel": 8,
+                "attacks": 47,
+                "stars": 83,
+                "destructionPercentage": 94.2,
+                "expEarned": 272
+            },
+            "opponent": {
+                "tag": "#2PYU2VUU9",
+                "name": "PUTRI AVANGER",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/-oqOIY73JWAhHJpwnh_R_OOmxSJ0o54MkHsiH7C6IE8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/-oqOIY73JWAhHJpwnh_R_OOmxSJ0o54MkHsiH7C6IE8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/-oqOIY73JWAhHJpwnh_R_OOmxSJ0o54MkHsiH7C6IE8.png"
+                },
+                "clanLevel": 15,
+                "stars": 90,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20230119T151849.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png"
+                },
+                "clanLevel": 8,
+                "attacks": 48,
+                "stars": 85,
+                "destructionPercentage": 96.6,
+                "expEarned": 317
+            },
+            "opponent": {
+                "tag": "#RJP9J09G",
+                "name": "BANI UMINAH",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/tWA-u6CK_97Q4sFhL8NAu7MlzhICO5xPqwCYoB6vm2Y.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/tWA-u6CK_97Q4sFhL8NAu7MlzhICO5xPqwCYoB6vm2Y.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/tWA-u6CK_97Q4sFhL8NAu7MlzhICO5xPqwCYoB6vm2Y.png"
+                },
+                "clanLevel": 11,
+                "stars": 81,
+                "destructionPercentage": 94.333336
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20230117T121424.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png"
+                },
+                "clanLevel": 8,
+                "attacks": 49,
+                "stars": 83,
+                "destructionPercentage": 97.0,
+                "expEarned": 341
+            },
+            "opponent": {
+                "tag": "#2Q8VVJL9R",
+                "name": "9.2.i Gang",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/l5xysbUbB-aWUl2RG_TKqiK3bx7Lanyo9vhYTioBA7k.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/l5xysbUbB-aWUl2RG_TKqiK3bx7Lanyo9vhYTioBA7k.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/l5xysbUbB-aWUl2RG_TKqiK3bx7Lanyo9vhYTioBA7k.png"
+                },
+                "clanLevel": 10,
+                "stars": 52,
+                "destructionPercentage": 66.2
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20230115T113023.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/wXBmeklt0X2k51VNn4Bs8rkvEnOG3MTIpbSnX3jJbo0.png"
+                },
+                "clanLevel": 8,
+                "attacks": 53,
+                "stars": 83,
+                "destructionPercentage": 94.166664,
+                "expEarned": 324
+            },
+            "opponent": {
+                "tag": "#G00QG29",
+                "name": "SUN DARK CLAN",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/tCu6VxVu9tTklZvkNbDYYOycY6NwRj6IUzZsdsBUYAY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/tCu6VxVu9tTklZvkNbDYYOycY6NwRj6IUzZsdsBUYAY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/tCu6VxVu9tTklZvkNbDYYOycY6NwRj6IUzZsdsBUYAY.png"
+                },
+                "clanLevel": 16,
+                "stars": 77,
+                "destructionPercentage": 89.86667
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20230113T112930.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png"
+                },
+                "clanLevel": 7,
+                "attacks": 64,
+                "stars": 110,
+                "destructionPercentage": 95.525,
+                "expEarned": 398
+            },
+            "opponent": {
+                "tag": "#2QQQURC2Q",
+                "name": "Chubu Theload",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/qCT4JLfWIiM7wSLD7aJgiZArvGNSEmTbFoDp9QG4uXY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/qCT4JLfWIiM7wSLD7aJgiZArvGNSEmTbFoDp9QG4uXY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/qCT4JLfWIiM7wSLD7aJgiZArvGNSEmTbFoDp9QG4uXY.png"
+                },
+                "clanLevel": 10,
+                "stars": 103,
+                "destructionPercentage": 90.575
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20230110T073305.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 1,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png"
+                },
+                "clanLevel": 7,
+                "attacks": 209,
+                "stars": 583,
+                "destructionPercentage": 617.9,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 282,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221230T113655.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png"
+                },
+                "clanLevel": 7,
+                "attacks": 43,
+                "stars": 77,
+                "destructionPercentage": 89.5,
+                "expEarned": 326
+            },
+            "opponent": {
+                "tag": "#PCP9ULRG",
+                "name": "Team Ampolya",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/D86XuEJ_yoqCfQnyk0O6CQoRvdGB5bvCRS2EST9t23A.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/D86XuEJ_yoqCfQnyk0O6CQoRvdGB5bvCRS2EST9t23A.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/D86XuEJ_yoqCfQnyk0O6CQoRvdGB5bvCRS2EST9t23A.png"
+                },
+                "clanLevel": 15,
+                "stars": 43,
+                "destructionPercentage": 55.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221228T111052.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png"
+                },
+                "clanLevel": 7,
+                "attacks": 51,
+                "stars": 89,
+                "destructionPercentage": 99.433334,
+                "expEarned": 304
+            },
+            "opponent": {
+                "tag": "#22LUY8R0R",
+                "name": "# دل خون#",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/7kGeL7spMhcUmDktduCW1xmvsvdI0U8T4R8QQ5rKxMQ.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/7kGeL7spMhcUmDktduCW1xmvsvdI0U8T4R8QQ5rKxMQ.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/7kGeL7spMhcUmDktduCW1xmvsvdI0U8T4R8QQ5rKxMQ.png"
+                },
+                "clanLevel": 12,
+                "stars": 5,
+                "destructionPercentage": 6.2
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221225T090346.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png"
+                },
+                "clanLevel": 7,
+                "attacks": 52,
+                "stars": 78,
+                "destructionPercentage": 92.03333,
+                "expEarned": 331
+            },
+            "opponent": {
+                "tag": "#2YPR9Q892",
+                "name": "APOCALIPSE",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/CW7U77goqPGOcPEc1h8jtNPZF-IXIruPpmStfpYVCdI.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/CW7U77goqPGOcPEc1h8jtNPZF-IXIruPpmStfpYVCdI.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/CW7U77goqPGOcPEc1h8jtNPZF-IXIruPpmStfpYVCdI.png"
+                },
+                "clanLevel": 10,
+                "stars": 74,
+                "destructionPercentage": 86.433334
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221223T090829.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png"
+                },
+                "clanLevel": 7,
+                "attacks": 52,
+                "stars": 85,
+                "destructionPercentage": 97.63333,
+                "expEarned": 322
+            },
+            "opponent": {
+                "tag": "#2LCLLJQ92",
+                "name": "Cali Kooks",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/C4K2reBuFh_Bc0hp9J7NAYjf5Nee-dWQLPQCAucE-ow.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/C4K2reBuFh_Bc0hp9J7NAYjf5Nee-dWQLPQCAucE-ow.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/C4K2reBuFh_Bc0hp9J7NAYjf5Nee-dWQLPQCAucE-ow.png"
+                },
+                "clanLevel": 10,
+                "stars": 64,
+                "destructionPercentage": 77.13333
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221221T090319.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png"
+                },
+                "clanLevel": 7,
+                "attacks": 57,
+                "stars": 106,
+                "destructionPercentage": 91.65,
+                "expEarned": 374
+            },
+            "opponent": {
+                "tag": "#28QJGUGG9",
+                "name": "Mehdi.to",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/TrOOAPCCsf3RuycNpuscfKycG4aO9nDbxjGunhwQlp8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/TrOOAPCCsf3RuycNpuscfKycG4aO9nDbxjGunhwQlp8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/TrOOAPCCsf3RuycNpuscfKycG4aO9nDbxjGunhwQlp8.png"
+                },
+                "clanLevel": 11,
+                "stars": 73,
+                "destructionPercentage": 74.275
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221219T090511.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/n7kmUL-AyIIAJdq83x5rFeQEPOGjJzZAvMTY1GXlQY0.png"
+                },
+                "clanLevel": 7,
+                "attacks": 52,
+                "stars": 84,
+                "destructionPercentage": 94.86667,
+                "expEarned": 318
+            },
+            "opponent": {
+                "tag": "#29Y9JV29Q",
+                "name": "M&E KING CLAN",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ofdgrH3TqdDsaJhdg8RC4cRvCdwP83WrxJ7c9XDAK8E.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ofdgrH3TqdDsaJhdg8RC4cRvCdwP83WrxJ7c9XDAK8E.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ofdgrH3TqdDsaJhdg8RC4cRvCdwP83WrxJ7c9XDAK8E.png"
+                },
+                "clanLevel": 13,
+                "stars": 77,
+                "destructionPercentage": 88.5
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221217T080102.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/7a9V9p0EfGXniOTVsS6DHWAg9h0GvA7kvXskN9MtxkA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/7a9V9p0EfGXniOTVsS6DHWAg9h0GvA7kvXskN9MtxkA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/7a9V9p0EfGXniOTVsS6DHWAg9h0GvA7kvXskN9MtxkA.png"
+                },
+                "clanLevel": 6,
+                "attacks": 47,
+                "stars": 88,
+                "destructionPercentage": 98.23333,
+                "expEarned": 310
+            },
+            "opponent": {
+                "tag": "#2Q220PQP2",
+                "name": "city boyz",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/LYgpIjkc-Pauntn_R6CoeNmzBnRgsDsarDIfDJpSv9M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/LYgpIjkc-Pauntn_R6CoeNmzBnRgsDsarDIfDJpSv9M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/LYgpIjkc-Pauntn_R6CoeNmzBnRgsDsarDIfDJpSv9M.png"
+                },
+                "clanLevel": 7,
+                "stars": 62,
+                "destructionPercentage": 82.9
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221215T065514.000Z",
+            "teamSize": 25,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/7a9V9p0EfGXniOTVsS6DHWAg9h0GvA7kvXskN9MtxkA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/7a9V9p0EfGXniOTVsS6DHWAg9h0GvA7kvXskN9MtxkA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/7a9V9p0EfGXniOTVsS6DHWAg9h0GvA7kvXskN9MtxkA.png"
+                },
+                "clanLevel": 6,
+                "attacks": 41,
+                "stars": 72,
+                "destructionPercentage": 98.0,
+                "expEarned": 258
+            },
+            "opponent": {
+                "tag": "#28GPVU92J",
+                "name": "COC FAN",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/Je1eB5kIqpyB-Y8vzQNUbqcOWrTLmg-juuMQ9wAf2G4.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/Je1eB5kIqpyB-Y8vzQNUbqcOWrTLmg-juuMQ9wAf2G4.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/Je1eB5kIqpyB-Y8vzQNUbqcOWrTLmg-juuMQ9wAf2G4.png"
+                },
+                "clanLevel": 10,
+                "stars": 64,
+                "destructionPercentage": 90.96
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221212T224441.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/7a9V9p0EfGXniOTVsS6DHWAg9h0GvA7kvXskN9MtxkA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/7a9V9p0EfGXniOTVsS6DHWAg9h0GvA7kvXskN9MtxkA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/7a9V9p0EfGXniOTVsS6DHWAg9h0GvA7kvXskN9MtxkA.png"
+                },
+                "clanLevel": 6,
+                "attacks": 49,
+                "stars": 78,
+                "destructionPercentage": 92.933334,
+                "expEarned": 310
+            },
+            "opponent": {
+                "tag": "#29UY2QGPL",
+                "name": "NUHUNGEMİSİ",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/rsYPIpl-rXatiHJ7JP0QZGajvFhnL7U_Tv_1oyAlr9I.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/rsYPIpl-rXatiHJ7JP0QZGajvFhnL7U_Tv_1oyAlr9I.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/rsYPIpl-rXatiHJ7JP0QZGajvFhnL7U_Tv_1oyAlr9I.png"
+                },
+                "clanLevel": 9,
+                "stars": 77,
+                "destructionPercentage": 88.433334
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221209T115410.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 1,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/7a9V9p0EfGXniOTVsS6DHWAg9h0GvA7kvXskN9MtxkA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/7a9V9p0EfGXniOTVsS6DHWAg9h0GvA7kvXskN9MtxkA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/7a9V9p0EfGXniOTVsS6DHWAg9h0GvA7kvXskN9MtxkA.png"
+                },
+                "clanLevel": 6,
+                "attacks": 207,
+                "stars": 528,
+                "destructionPercentage": 578.0,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 343,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221129T064745.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/7a9V9p0EfGXniOTVsS6DHWAg9h0GvA7kvXskN9MtxkA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/7a9V9p0EfGXniOTVsS6DHWAg9h0GvA7kvXskN9MtxkA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/7a9V9p0EfGXniOTVsS6DHWAg9h0GvA7kvXskN9MtxkA.png"
+                },
+                "clanLevel": 6,
+                "attacks": 62,
+                "stars": 118,
+                "destructionPercentage": 98.9,
+                "expEarned": 333
+            },
+            "opponent": {
+                "tag": "#QVLLVPLV",
+                "name": "DARK BD",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/s1Cg1o258DxyjX-krYAsNgRGc_zDYZl_o4LVfAoAIkM.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/s1Cg1o258DxyjX-krYAsNgRGc_zDYZl_o4LVfAoAIkM.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/s1Cg1o258DxyjX-krYAsNgRGc_zDYZl_o4LVfAoAIkM.png"
+                },
+                "clanLevel": 9,
+                "stars": 87,
+                "destructionPercentage": 80.175
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20221127T065913.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/7a9V9p0EfGXniOTVsS6DHWAg9h0GvA7kvXskN9MtxkA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/7a9V9p0EfGXniOTVsS6DHWAg9h0GvA7kvXskN9MtxkA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/7a9V9p0EfGXniOTVsS6DHWAg9h0GvA7kvXskN9MtxkA.png"
+                },
+                "clanLevel": 6,
+                "attacks": 66,
+                "stars": 113,
+                "destructionPercentage": 95.425,
+                "expEarned": 290
+            },
+            "opponent": {
+                "tag": "#2YJQRU200",
+                "name": "csk",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/1TSyj_A7ZjfRov6WJNjNWjB16Hc8BmFMhKKJdf4AAMY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/1TSyj_A7ZjfRov6WJNjNWjB16Hc8BmFMhKKJdf4AAMY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/1TSyj_A7ZjfRov6WJNjNWjB16Hc8BmFMhKKJdf4AAMY.png"
+                },
+                "clanLevel": 11,
+                "stars": 113,
+                "destructionPercentage": 96.15
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221125T071903.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/7a9V9p0EfGXniOTVsS6DHWAg9h0GvA7kvXskN9MtxkA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/7a9V9p0EfGXniOTVsS6DHWAg9h0GvA7kvXskN9MtxkA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/7a9V9p0EfGXniOTVsS6DHWAg9h0GvA7kvXskN9MtxkA.png"
+                },
+                "clanLevel": 6,
+                "attacks": 68,
+                "stars": 112,
+                "destructionPercentage": 94.275,
+                "expEarned": 348
+            },
+            "opponent": {
+                "tag": "#2YV8VGV2P",
+                "name": "\"Н.А.С.В.\"",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/mTDgNd9BdylaqruNxYy-PotT_E4R53xavKXkeSqF6sE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/mTDgNd9BdylaqruNxYy-PotT_E4R53xavKXkeSqF6sE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/mTDgNd9BdylaqruNxYy-PotT_E4R53xavKXkeSqF6sE.png"
+                },
+                "clanLevel": 9,
+                "stars": 94,
+                "destructionPercentage": 84.9
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221123T071520.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/JeYHclCi3yvGG9v21JRXaDQL5E4cKuvN0tXvskIgHnI.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/JeYHclCi3yvGG9v21JRXaDQL5E4cKuvN0tXvskIgHnI.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/JeYHclCi3yvGG9v21JRXaDQL5E4cKuvN0tXvskIgHnI.png"
+                },
+                "clanLevel": 5,
+                "attacks": 47,
+                "stars": 84,
+                "destructionPercentage": 95.63333,
+                "expEarned": 273
+            },
+            "opponent": {
+                "tag": "#YQCULRYV",
+                "name": "Biak Fighter",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/LK7ENN5uqZBwieBTTexg2lfO-K1uU-Y_1U8ybIh9T3Y.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/LK7ENN5uqZBwieBTTexg2lfO-K1uU-Y_1U8ybIh9T3Y.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/LK7ENN5uqZBwieBTTexg2lfO-K1uU-Y_1U8ybIh9T3Y.png"
+                },
+                "clanLevel": 13,
+                "stars": 80,
+                "destructionPercentage": 92.066666
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221121T073235.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/JeYHclCi3yvGG9v21JRXaDQL5E4cKuvN0tXvskIgHnI.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/JeYHclCi3yvGG9v21JRXaDQL5E4cKuvN0tXvskIgHnI.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/JeYHclCi3yvGG9v21JRXaDQL5E4cKuvN0tXvskIgHnI.png"
+                },
+                "clanLevel": 5,
+                "attacks": 61,
+                "stars": 116,
+                "destructionPercentage": 97.475,
+                "expEarned": 346
+            },
+            "opponent": {
+                "tag": "#28P9UVLUC",
+                "name": "零翼ZeroWing",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/9eAB6S-_ELOeBKP9P9IMV0f-j9patIDv9_YCkv7nHYQ.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/9eAB6S-_ELOeBKP9P9IMV0f-j9patIDv9_YCkv7nHYQ.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/9eAB6S-_ELOeBKP9P9IMV0f-j9patIDv9_YCkv7nHYQ.png"
+                },
+                "clanLevel": 9,
+                "stars": 105,
+                "destructionPercentage": 90.95
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20221119T074106.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/JeYHclCi3yvGG9v21JRXaDQL5E4cKuvN0tXvskIgHnI.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/JeYHclCi3yvGG9v21JRXaDQL5E4cKuvN0tXvskIgHnI.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/JeYHclCi3yvGG9v21JRXaDQL5E4cKuvN0tXvskIgHnI.png"
+                },
+                "clanLevel": 5,
+                "attacks": 59,
+                "stars": 103,
+                "destructionPercentage": 93.925,
+                "expEarned": 327
+            },
+            "opponent": {
+                "tag": "#2LVV0YLPU",
+                "name": "Kiyomasa",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/3U1XVIH2-sYg-xwYHKmytRETFtHGXds-2uEP7zLCaKE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/3U1XVIH2-sYg-xwYHKmytRETFtHGXds-2uEP7zLCaKE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/3U1XVIH2-sYg-xwYHKmytRETFtHGXds-2uEP7zLCaKE.png"
+                },
+                "clanLevel": 8,
+                "stars": 110,
+                "destructionPercentage": 95.2
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221117T074400.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/JeYHclCi3yvGG9v21JRXaDQL5E4cKuvN0tXvskIgHnI.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/JeYHclCi3yvGG9v21JRXaDQL5E4cKuvN0tXvskIgHnI.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/JeYHclCi3yvGG9v21JRXaDQL5E4cKuvN0tXvskIgHnI.png"
+                },
+                "clanLevel": 5,
+                "attacks": 63,
+                "stars": 113,
+                "destructionPercentage": 96.975,
+                "expEarned": 357
+            },
+            "opponent": {
+                "tag": "#2LRUPQR9R",
+                "name": "JJÑ",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/-mz69f_i3pJODu32HOvMOpuoWJZmAKpY6qOVtr_DgI0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/-mz69f_i3pJODu32HOvMOpuoWJZmAKpY6qOVtr_DgI0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/-mz69f_i3pJODu32HOvMOpuoWJZmAKpY6qOVtr_DgI0.png"
+                },
+                "clanLevel": 8,
+                "stars": 53,
+                "destructionPercentage": 48.7
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20221115T073716.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/JeYHclCi3yvGG9v21JRXaDQL5E4cKuvN0tXvskIgHnI.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/JeYHclCi3yvGG9v21JRXaDQL5E4cKuvN0tXvskIgHnI.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/JeYHclCi3yvGG9v21JRXaDQL5E4cKuvN0tXvskIgHnI.png"
+                },
+                "clanLevel": 5,
+                "attacks": 64,
+                "stars": 106,
+                "destructionPercentage": 92.025,
+                "expEarned": 290
+            },
+            "opponent": {
+                "tag": "#URRJCPY",
+                "name": "Adab-ı Muhabbet",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/mDICx02dJPexcFGCKm9LfrhQRicEC221VCjJtMd0SZI.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/mDICx02dJPexcFGCKm9LfrhQRicEC221VCjJtMd0SZI.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/mDICx02dJPexcFGCKm9LfrhQRicEC221VCjJtMd0SZI.png"
+                },
+                "clanLevel": 14,
+                "stars": 113,
+                "destructionPercentage": 95.65
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221113T072905.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/JeYHclCi3yvGG9v21JRXaDQL5E4cKuvN0tXvskIgHnI.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/JeYHclCi3yvGG9v21JRXaDQL5E4cKuvN0tXvskIgHnI.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/JeYHclCi3yvGG9v21JRXaDQL5E4cKuvN0tXvskIgHnI.png"
+                },
+                "clanLevel": 5,
+                "attacks": 63,
+                "stars": 109,
+                "destructionPercentage": 93.2,
+                "expEarned": 375
+            },
+            "opponent": {
+                "tag": "#2LL0UCQRU",
+                "name": "TròChơiKếtThúc",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/RNBLPbusUwQMoTmqTtBE-7L7k0m4DslTmlb5ygVkmKo.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/RNBLPbusUwQMoTmqTtBE-7L7k0m4DslTmlb5ygVkmKo.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/RNBLPbusUwQMoTmqTtBE-7L7k0m4DslTmlb5ygVkmKo.png"
+                },
+                "clanLevel": 8,
+                "stars": 101,
+                "destructionPercentage": 89.925
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221110T075110.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 1,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/JeYHclCi3yvGG9v21JRXaDQL5E4cKuvN0tXvskIgHnI.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/JeYHclCi3yvGG9v21JRXaDQL5E4cKuvN0tXvskIgHnI.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/JeYHclCi3yvGG9v21JRXaDQL5E4cKuvN0tXvskIgHnI.png"
+                },
+                "clanLevel": 5,
+                "attacks": 200,
+                "stars": 613,
+                "destructionPercentage": 640.63336,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 238,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20221031T130522.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/v6ueUb5w4vUOALRP9vrI15KfxB6Xbz9WVdbzU46f2lg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/v6ueUb5w4vUOALRP9vrI15KfxB6Xbz9WVdbzU46f2lg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/v6ueUb5w4vUOALRP9vrI15KfxB6Xbz9WVdbzU46f2lg.png"
+                },
+                "clanLevel": 4,
+                "attacks": 49,
+                "stars": 79,
+                "destructionPercentage": 93.1,
+                "expEarned": 259
+            },
+            "opponent": {
+                "tag": "#PGYCGVL8",
+                "name": "indo SURABAYA",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ZkIycFr8m8-to45HQera_4VHXb4br4Y5I5jWgzWR-OE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ZkIycFr8m8-to45HQera_4VHXb4br4Y5I5jWgzWR-OE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ZkIycFr8m8-to45HQera_4VHXb4br4Y5I5jWgzWR-OE.png"
+                },
+                "clanLevel": 12,
+                "stars": 80,
+                "destructionPercentage": 92.566666
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221029T125032.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/v6ueUb5w4vUOALRP9vrI15KfxB6Xbz9WVdbzU46f2lg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/v6ueUb5w4vUOALRP9vrI15KfxB6Xbz9WVdbzU46f2lg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/v6ueUb5w4vUOALRP9vrI15KfxB6Xbz9WVdbzU46f2lg.png"
+                },
+                "clanLevel": 4,
+                "attacks": 65,
+                "stars": 115,
+                "destructionPercentage": 98.05,
+                "expEarned": 357
+            },
+            "opponent": {
+                "tag": "#2929YYCR0",
+                "name": "《Penta▪Legend》",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ED2PPvSlk1yCFsbrDt6L-ltYzqXu6HT2AiaG8gsKPQQ.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ED2PPvSlk1yCFsbrDt6L-ltYzqXu6HT2AiaG8gsKPQQ.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ED2PPvSlk1yCFsbrDt6L-ltYzqXu6HT2AiaG8gsKPQQ.png"
+                },
+                "clanLevel": 10,
+                "stars": 110,
+                "destructionPercentage": 93.025
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221027T090512.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/v6ueUb5w4vUOALRP9vrI15KfxB6Xbz9WVdbzU46f2lg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/v6ueUb5w4vUOALRP9vrI15KfxB6Xbz9WVdbzU46f2lg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/v6ueUb5w4vUOALRP9vrI15KfxB6Xbz9WVdbzU46f2lg.png"
+                },
+                "clanLevel": 4,
+                "attacks": 63,
+                "stars": 115,
+                "destructionPercentage": 97.8,
+                "expEarned": 352
+            },
+            "opponent": {
+                "tag": "#LL8YPLPG",
+                "name": "GOBLIN CITY",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/K3WWRpP6MFOVIJjGSHGVaU-mAFiNMSV2X_1KPVQxwG4.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/K3WWRpP6MFOVIJjGSHGVaU-mAFiNMSV2X_1KPVQxwG4.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/K3WWRpP6MFOVIJjGSHGVaU-mAFiNMSV2X_1KPVQxwG4.png"
+                },
+                "clanLevel": 13,
+                "stars": 115,
+                "destructionPercentage": 97.175
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221025T084644.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/v6ueUb5w4vUOALRP9vrI15KfxB6Xbz9WVdbzU46f2lg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/v6ueUb5w4vUOALRP9vrI15KfxB6Xbz9WVdbzU46f2lg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/v6ueUb5w4vUOALRP9vrI15KfxB6Xbz9WVdbzU46f2lg.png"
+                },
+                "clanLevel": 4,
+                "attacks": 54,
+                "stars": 116,
+                "destructionPercentage": 98.625,
+                "expEarned": 339
+            },
+            "opponent": {
+                "tag": "#2LGPUG8JJ",
+                "name": "UNWANTED",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ndN4kbnDZQmjAnh0HIWyNZkUXeW56RFYigf-28h39Co.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ndN4kbnDZQmjAnh0HIWyNZkUXeW56RFYigf-28h39Co.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ndN4kbnDZQmjAnh0HIWyNZkUXeW56RFYigf-28h39Co.png"
+                },
+                "clanLevel": 11,
+                "stars": 86,
+                "destructionPercentage": 78.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221023T090639.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/v6ueUb5w4vUOALRP9vrI15KfxB6Xbz9WVdbzU46f2lg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/v6ueUb5w4vUOALRP9vrI15KfxB6Xbz9WVdbzU46f2lg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/v6ueUb5w4vUOALRP9vrI15KfxB6Xbz9WVdbzU46f2lg.png"
+                },
+                "clanLevel": 4,
+                "attacks": 62,
+                "stars": 112,
+                "destructionPercentage": 95.625,
+                "expEarned": 345
+            },
+            "opponent": {
+                "tag": "#29V2YYUC2",
+                "name": "LEGENDS OF WAR",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/o4S_8GAng9ajv3blTxxw3NleDTXWlwk8Ma8mL_apRPo.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/o4S_8GAng9ajv3blTxxw3NleDTXWlwk8Ma8mL_apRPo.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/o4S_8GAng9ajv3blTxxw3NleDTXWlwk8Ma8mL_apRPo.png"
+                },
+                "clanLevel": 13,
+                "stars": 101,
+                "destructionPercentage": 88.55
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221021T092031.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/v6ueUb5w4vUOALRP9vrI15KfxB6Xbz9WVdbzU46f2lg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/v6ueUb5w4vUOALRP9vrI15KfxB6Xbz9WVdbzU46f2lg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/v6ueUb5w4vUOALRP9vrI15KfxB6Xbz9WVdbzU46f2lg.png"
+                },
+                "clanLevel": 4,
+                "attacks": 62,
+                "stars": 111,
+                "destructionPercentage": 97.875,
+                "expEarned": 356
+            },
+            "opponent": {
+                "tag": "#JJLJU9VR",
+                "name": "HERE I COME",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ndN4kbnDZQmjAnh0HIWyNZkUXeW56RFYigf-28h39Co.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ndN4kbnDZQmjAnh0HIWyNZkUXeW56RFYigf-28h39Co.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ndN4kbnDZQmjAnh0HIWyNZkUXeW56RFYigf-28h39Co.png"
+                },
+                "clanLevel": 11,
+                "stars": 91,
+                "destructionPercentage": 81.3
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221019T083357.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/v6ueUb5w4vUOALRP9vrI15KfxB6Xbz9WVdbzU46f2lg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/v6ueUb5w4vUOALRP9vrI15KfxB6Xbz9WVdbzU46f2lg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/v6ueUb5w4vUOALRP9vrI15KfxB6Xbz9WVdbzU46f2lg.png"
+                },
+                "clanLevel": 4,
+                "attacks": 59,
+                "stars": 110,
+                "destructionPercentage": 97.0,
+                "expEarned": 362
+            },
+            "opponent": {
+                "tag": "#RQQLRUV8",
+                "name": "Vijay Fanz",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/hd-k6ib0T_PaS4tTIcdCtP6cHVrMMatNRUui77zdS5c.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/hd-k6ib0T_PaS4tTIcdCtP6cHVrMMatNRUui77zdS5c.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/hd-k6ib0T_PaS4tTIcdCtP6cHVrMMatNRUui77zdS5c.png"
+                },
+                "clanLevel": 12,
+                "stars": 100,
+                "destructionPercentage": 86.525
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221017T082241.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/Gv7eVaLegw77yfOE-Oy-YF4IBmb8yF8EzyDia-Zmrzs.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/Gv7eVaLegw77yfOE-Oy-YF4IBmb8yF8EzyDia-Zmrzs.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/Gv7eVaLegw77yfOE-Oy-YF4IBmb8yF8EzyDia-Zmrzs.png"
+                },
+                "clanLevel": 3,
+                "attacks": 60,
+                "stars": 110,
+                "destructionPercentage": 95.375,
+                "expEarned": 360
+            },
+            "opponent": {
+                "tag": "#2YY0YLQLU",
+                "name": "jamban begilik",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/M5wHg2sRlQrGRnP0HT2UL9h28HERmqK_tqnG66q7X9A.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/M5wHg2sRlQrGRnP0HT2UL9h28HERmqK_tqnG66q7X9A.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/M5wHg2sRlQrGRnP0HT2UL9h28HERmqK_tqnG66q7X9A.png"
+                },
+                "clanLevel": 10,
+                "stars": 70,
+                "destructionPercentage": 62.9
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221015T083114.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/Gv7eVaLegw77yfOE-Oy-YF4IBmb8yF8EzyDia-Zmrzs.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/Gv7eVaLegw77yfOE-Oy-YF4IBmb8yF8EzyDia-Zmrzs.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/Gv7eVaLegw77yfOE-Oy-YF4IBmb8yF8EzyDia-Zmrzs.png"
+                },
+                "clanLevel": 3,
+                "attacks": 45,
+                "stars": 83,
+                "destructionPercentage": 94.46667,
+                "expEarned": 311
+            },
+            "opponent": {
+                "tag": "#2QRVLGCG2",
+                "name": "EndGame Magic",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/cKEpMHNarPCAHZHmnlBfEY79u4NeR0qWaOIRQ-XE4Ro.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/cKEpMHNarPCAHZHmnlBfEY79u4NeR0qWaOIRQ-XE4Ro.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/cKEpMHNarPCAHZHmnlBfEY79u4NeR0qWaOIRQ-XE4Ro.png"
+                },
+                "clanLevel": 7,
+                "stars": 40,
+                "destructionPercentage": 49.766666
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221009T120228.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 1,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/Gv7eVaLegw77yfOE-Oy-YF4IBmb8yF8EzyDia-Zmrzs.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/Gv7eVaLegw77yfOE-Oy-YF4IBmb8yF8EzyDia-Zmrzs.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/Gv7eVaLegw77yfOE-Oy-YF4IBmb8yF8EzyDia-Zmrzs.png"
+                },
+                "clanLevel": 3,
+                "attacks": 191,
+                "stars": 560,
+                "destructionPercentage": 586.06665,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 226,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20221001T100032.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/2W0hv9mrF8KmDmkyZNEd_kVv7cMypAeHfib37bGyAzc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/2W0hv9mrF8KmDmkyZNEd_kVv7cMypAeHfib37bGyAzc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/2W0hv9mrF8KmDmkyZNEd_kVv7cMypAeHfib37bGyAzc.png"
+                },
+                "clanLevel": 2,
+                "attacks": 48,
+                "stars": 88,
+                "destructionPercentage": 99.26667,
+                "expEarned": 267
+            },
+            "opponent": {
+                "tag": "#2LVY99089",
+                "name": "Gerankt",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/_59kBeKow6UP9eeYc88KpglAA_U1AvThvbPaWhPkhsM.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/_59kBeKow6UP9eeYc88KpglAA_U1AvThvbPaWhPkhsM.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/_59kBeKow6UP9eeYc88KpglAA_U1AvThvbPaWhPkhsM.png"
+                },
+                "clanLevel": 8,
+                "stars": 58,
+                "destructionPercentage": 70.73333
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20220918T101756.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 2,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/2W0hv9mrF8KmDmkyZNEd_kVv7cMypAeHfib37bGyAzc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/2W0hv9mrF8KmDmkyZNEd_kVv7cMypAeHfib37bGyAzc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/2W0hv9mrF8KmDmkyZNEd_kVv7cMypAeHfib37bGyAzc.png"
+                },
+                "clanLevel": 2,
+                "attacks": 16,
+                "stars": 29,
+                "destructionPercentage": 95.7,
+                "expEarned": 87
+            },
+            "opponent": {
+                "tag": "#2P00CQU8L",
+                "name": "CAHAYAILAHI",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/2iSVm0JlxgfZp2BRS2Nd8mS6MQ5Jrl0Dog0kTarJHjo.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/2iSVm0JlxgfZp2BRS2Nd8mS6MQ5Jrl0Dog0kTarJHjo.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/2iSVm0JlxgfZp2BRS2Nd8mS6MQ5Jrl0Dog0kTarJHjo.png"
+                },
+                "clanLevel": 7,
+                "stars": 29,
+                "destructionPercentage": 97.4
+            }
+        },
+        {
+            "result": null,
+            "endTime": "20220910T083302.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 1,
+            "clan": {
+                "tag": "#2QYR2QJUP",
+                "name": "Cabin Fever",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/2W0hv9mrF8KmDmkyZNEd_kVv7cMypAeHfib37bGyAzc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/2W0hv9mrF8KmDmkyZNEd_kVv7cMypAeHfib37bGyAzc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/2W0hv9mrF8KmDmkyZNEd_kVv7cMypAeHfib37bGyAzc.png"
+                },
+                "clanLevel": 2,
+                "attacks": 181,
+                "stars": 377,
+                "destructionPercentage": 429.03333,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 306,
+                "destructionPercentage": 0.0
+            }
+        }
+    ],
+    "paging": {
+        "cursors": {}
+    }
+}
