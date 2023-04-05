@@ -1,7 +1,9 @@
+import csv
 import os
 import pickle
 from collections import Counter, defaultdict
 from dataclasses import dataclass
+from statistics import mean
 
 import matplotlib as mpl
 import matplotlib.font_manager as fm
@@ -25,7 +27,7 @@ class CwlAnalyzer:
         self.number_difference_check = number_difference_check
         self.api = CocApiService()
 
-    def analyze(self, clan_tag: str, clan_alias: str, clan_name: str, month: str) -> tuple[Player, LeaguePerformance]:
+    def analyze(self, clan_tag: str, clan_alias: str, clan_name: str, month: str):
         player_score_map: dict[Player, LeaguePerformance] = defaultdict(lambda: LeaguePerformance())
 
         results_pickle_path = f"results/{month}/{clan_alias}.p"
@@ -36,17 +38,46 @@ class CwlAnalyzer:
             league = League(war_league_info, clan_tag, self.api)
             pickle.dump(league, open(results_pickle_path, "wb"))
 
+        friendly_th_averages = []
+        enemy_th_averages = []
         for war in league.wars:
             for player in war.players:
                 player_score_map[player].score += self.__calculate_player_score(player)
                 player_score_map[player].wars_participated += 1
                 player_score_map[player].wars_attacked += 1 if not player.missed_attack else 0
 
-        self.__plot_stats(league, clan_alias, clan_name, month)
+            averages = war.get_average_th_level()
+            friendly_th_averages.append(averages[0])
+            enemy_th_averages.append(averages[1])
 
         players = sorted(player_score_map.items(), key=lambda x: x[1].score, reverse=True)
-        print(f"{clan_name} MVPs: {', '.join([player[0].name for player in players[:3]])}")
-        return players
+
+        self.__plot_stats(league, clan_alias, clan_name, month)
+        self.__save_player_scores(month, clan_alias, players)
+        self.__save_th_averages(month, clan_alias, friendly_th_averages, enemy_th_averages)
+
+    def __save_player_scores(self, month: str, clan_alias: str, players: tuple[Player, LeaguePerformance]):
+        with open(f"results/{month}/{clan_alias}.csv", "w") as f:
+            writer = csv.writer(f)
+            header = ["name", "tag", "score", "attacks", "wars participated", "avg score"]
+            writer.writerow(header)
+            for player, score in players:
+                writer.writerow(
+                    [
+                        player.name,
+                        player.tag,
+                        score.score,
+                        score.wars_attacked,
+                        score.wars_participated,
+                        score.score / score.wars_participated,
+                    ]
+                )
+
+    def __save_th_averages(
+        self, month: str, clan_alias: str, friendly_th_averages: list[float], enemy_th_averages: list[float]
+    ):
+        with open(f"results/{month}/{clan_alias}_town_halls.csv", "w") as f:
+            f.write(f"{mean(friendly_th_averages)},{mean(enemy_th_averages)}")
 
     def __calculate_player_score(self, player) -> float:
         # good score - 100, points are deducted based on various factors.

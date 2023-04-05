@@ -54,6 +54,7 @@ class ResultsGenerator:
         background = self.__overlay_badge(background, clan_badge)
         background = self.__write_clan_name(background)
         background = self.__overlay_results(background)
+        background = self.__write_avg_th(background)
 
         background.save(f"results/{self.month}/{self.clan}_overview.png")
 
@@ -93,6 +94,26 @@ class ResultsGenerator:
             self.clan_name,
             offset=(0, 800),
             size=64,
+        )
+
+    def __write_avg_th(self, background: Image):
+        with open(f"results/{self.month}/{self.clan}_town_halls.csv", "r") as f:
+            data = f.read()
+
+        friendly_th, enemy_th = data.split(",")
+        friendly_th = float(friendly_th)
+        enemy_th = float(enemy_th)
+        background = self.__write_text(
+            background,
+            f"Average Friendly TH: {round(friendly_th ,2)}",
+            offset=(0, 600),
+            size=32,
+        )
+        return self.__write_text(
+            background,
+            f"Average Enemy TH: {round(enemy_th, 2)}",
+            offset=(0, 500),
+            size=32,
         )
 
     def __overlay_badge(self, background: Image, badge: Image):
