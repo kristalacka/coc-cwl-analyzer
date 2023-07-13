@@ -17,13 +17,17 @@ class Player:
         self.tag = tag
         self.town_hall = town_hall
         self.missed_attack = False
+        self.attacked = True
 
         self.performance = None
 
-    def add_war_participation(self, player_info: dict, enemy_info: dict) -> None:
+    def add_war_participation(self, player_info: dict, enemy_info: dict, war_ended: bool) -> None:
         attacks = player_info.get("attacks", [])
-        if not attacks:
+        if not attacks and war_ended:
             self.missed_attack = True
+
+        if not attacks:
+            self.attacked = False
             return
 
         attack = attacks[0]

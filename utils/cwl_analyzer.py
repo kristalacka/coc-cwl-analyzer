@@ -4,6 +4,7 @@ import pickle
 from collections import Counter, defaultdict
 from dataclasses import dataclass
 from statistics import mean
+from typing import Optional
 
 import matplotlib as mpl
 import matplotlib.font_manager as fm
@@ -17,21 +18,26 @@ from utils.player import Player
 @dataclass
 class LeaguePerformance:
     score: float = 0.0
+    scores: list[float] = None
     wars_participated: int = 0
     wars_attacked: int = 0
 
 
 class CwlAnalyzer:
-    def __init__(self, missed_attack_penalty: float = 100.0, number_difference_check: bool = False):
+    def __init__(
+        self, missed_attack_penalty: float = 100.0, number_difference_check: bool = False, *, recheck: bool = False
+    ):
         self.missed_attack_penalty = missed_attack_penalty
         self.number_difference_check = number_difference_check
+        self.recheck = recheck
         self.api = CocApiService()
+        self.league: Optional[League] = None
 
     def analyze(self, clan_tag: str, clan_alias: str, clan_name: str, month: str):
-        player_score_map: dict[Player, LeaguePerformance] = defaultdict(lambda: LeaguePerformance())
+        player_score_map: dict[Player, LeaguePerformance] = defaultdict(lambda: LeaguePerformance(scores=[]))
 
         results_pickle_path = f"results/{month}/{clan_alias}.p"
-        if os.path.exists(results_pickle_path):
+        if os.path.exists(results_pickle_path) and not self.recheck:
             league = pickle.load(open(results_pickle_path, "rb"))
         else:
             war_league_info = self.api.get_cwl_info(clan_tag)
@@ -40,11 +46,17 @@ class CwlAnalyzer:
 
         friendly_th_averages = []
         enemy_th_averages = []
+        self.league = league
         for war in league.wars:
+            if war.home_clan_info["name"] != clan_name:  # TODO: Use clan tag
+                continue
+
             for player in war.players:
-                player_score_map[player].score += self.__calculate_player_score(player)
-                player_score_map[player].wars_participated += 1
-                player_score_map[player].wars_attacked += 1 if not player.missed_attack else 0
+                score = self.__calculate_player_score(player)
+                player_score_map[player].score += score
+                player_score_map[player].scores.append(score)
+                player_score_map[player].wars_participated += 1 if (player.attacked or war.ended) else 0
+                player_score_map[player].wars_attacked += 1 if player.attacked else 0
 
             averages = war.get_average_th_level()
             friendly_th_averages.append(averages[0])
@@ -59,7 +71,7 @@ class CwlAnalyzer:
     def __save_player_scores(self, month: str, clan_alias: str, players: tuple[Player, LeaguePerformance]):
         with open(f"results/{month}/{clan_alias}.csv", "w") as f:
             writer = csv.writer(f)
-            header = ["name", "tag", "score", "attacks", "wars participated", "avg score"]
+            header = ["name", "tag", "score", "attacks", "wars participated", "avg score", "all scores"]
             writer.writerow(header)
             for player, score in players:
                 writer.writerow(
@@ -70,6 +82,7 @@ class CwlAnalyzer:
                         score.wars_attacked,
                         score.wars_participated,
                         score.score / score.wars_participated,
+                        score.scores,
                     ]
                 )
 
@@ -84,6 +97,9 @@ class CwlAnalyzer:
 
         if player.missed_attack:
             return -abs(self.missed_attack_penalty)
+
+        if not player.attacked:
+            return 0.0
 
         town_hall_difference = player.performance.attacker_th - player.performance.defender_th
         number_difference = player.performance.attacker_number - player.performance.defender_number
@@ -133,8 +149,13 @@ class CwlAnalyzer:
 
         if stars == 2:
             score = 100.0
-
-            return destruction * score / 70.0 + town_hall_difference * 10
+            abs_th_diff = abs(town_hall_difference)
+            if abs_th_diff == 1:
+                return destruction * score / 80.0
+            elif abs_th_diff == 2:
+                return destruction * score / 70.0
+            else:
+                return destruction * score / 70.0 + 5 * abs_th_diff
 
         if stars == 1:
             score = 50.0
@@ -178,7 +199,7 @@ class CwlAnalyzer:
 
         font_path = "fonts/supercell-magic.ttf"
         font_properties = fm.FontProperties(fname=font_path)
-        title_kwargs = {"fontproperties": font_properties, "fontsize": 12}
+        title_kwargs = {"fontproperties": font_properties, "fontsize": 18}
         label_kwargs = {"fontweight": "bold"}
 
         star_counter = Counter()
@@ -186,6 +207,9 @@ class CwlAnalyzer:
         missed_attacks = 0
 
         for war in league.wars:
+            if war.home_clan_info["name"] != clan_name:  # TODO: Use clan tag
+                continue
+
             for player in war.players:
                 if player.missed_attack:
                     missed_attacks += 1
@@ -219,6 +243,7 @@ class CwlAnalyzer:
         star_counter = dict(star_counter)
         star_counter = {k: v for k, v in sorted(star_counter.items(), key=lambda item: item[0], reverse=True)}
         star_counter["missed"] = missed_attacks
+        star_counter = Counter({k: v for k, v in star_counter.items() if v > 0})
 
         pie_vals = [float(v) for v in star_counter.values()]
         colors = {
@@ -234,7 +259,8 @@ class CwlAnalyzer:
             autopct=make_autopct(pie_vals),
             colors=[colors[key] for key in star_counter.keys()],
             explode=[0.1 if key == 3 else 0 for key in star_counter.keys()],
+            textprops={"fontsize": 16},
         )
-        plt.title(f"{clan_name} - CWL stars", **title_kwargs)
+        # plt.title(f"{clan_name} - CWL stars", **title_kwargs)
         plt.savefig(f"results/{month}/{clan_alias}_stars.png", transparent=True)
         plt.clf()
