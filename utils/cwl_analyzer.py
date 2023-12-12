@@ -114,8 +114,6 @@ class CwlAnalyzer:
             return self.__calculate_lower_th_score(number_difference, stars, destruction, town_hall_difference)
 
     def __calculate_equal_th_score(self, number_difference: int, stars: int, destruction: float) -> float:
-        # return stars - 3
-
         if stars == 3:
             score = 100.0
             if number_difference >= 0:
@@ -138,8 +136,6 @@ class CwlAnalyzer:
     def __calculate_higher_th_score(
         self, number_difference: int, stars: int, destruction: float, town_hall_difference: int
     ) -> float:
-        # return stars - 2
-
         if stars == 3:
             score = 100.0
             if number_difference >= 0:
@@ -167,8 +163,6 @@ class CwlAnalyzer:
     def __calculate_lower_th_score(
         self, number_difference: int, stars: int, destruction: float, town_hall_difference: int
     ) -> float:
-        # return stars - 3
-
         if stars == 3:
             score = 100.0
             if number_difference >= 0:
