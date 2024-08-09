@@ -136,14 +136,14 @@ class CwlAnalyzer:
     def __calculate_higher_th_score(
         self, number_difference: int, stars: int, destruction: float, town_hall_difference: int
     ) -> float:
-        if stars == 3:
-            score = 100.0
-            if number_difference >= 0:
-                return score
+        # if stars == 3:
+        #     score = 100.0
+        #     if number_difference >= 0:
+        #         return score
 
-            return score - number_difference if self.number_difference_check else score
+        #     return score - number_difference if self.number_difference_check else score
 
-        if stars == 2:
+        if stars >= 2:
             score = 100.0
             abs_th_diff = abs(town_hall_difference)
             if abs_th_diff == 1:

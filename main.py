@@ -22,12 +22,12 @@ def __main__():
 
     clan_map = {
         "bc": "#PJ2UVURC",
-        "tbc": "#2PRG8V0G2",
+        # "tbc": "#2PRG8V0G2",
         "fever": "#2QYR2QJUP",
         "scrubs": "#2QR0CGUUL",
         # "bob": "#P8P0JCRC",
         # "ftc": "#2G0RR8VPU",
-        "couch": "#2LGP929CP",
+        # "couch": "#2LGP929CP",
         "ls": "#GCCUC2YR",
     }
     recheck = False
